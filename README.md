@@ -1,6 +1,6 @@
 # Career Ladders at Valoreo (Manager ladder TBD)
 ## What is a career ladder?
-* Defines the possible roles and titles acrosst the business
+* Defines the possible roles and titles across the business
 * Shows which roles each team member can progress to
 * Explains what someone has to do to progress to each role
 
@@ -21,6 +21,8 @@ Engineers at this level will generally be beginners, or working towards the Begi
 
 ### Engineer II (IC 2)
 #### Expectations
+* You have published at least 2 technical blog posts of high quality
+* You have worked on the release of a production system or have contributed signficantly to a production system
 * You work within guidelines set by your teammates to independently tackle well-scoped problems.
 * You regularly deliver your work to end users and are a primary contributor to your team’s goals.
 * You work on features and projects within a broader product or system.
